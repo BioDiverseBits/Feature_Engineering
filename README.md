@@ -1,11 +1,11 @@
-# Feature Engineering 	:mag_right:
+# Feature Engineering  🕵️‍♀️
 
 Welcome to the repository that I will share my personal notes while I am studying! In this repository I aimed to study and share insights into the art and science of feature engineering in data science and machine learning.
 
-## About Feature Engineering 	:information_source:
+## About Feature Engineering  ℹ️
 Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data. It involves selecting, modifying, and creating features from the available data to enhance the performance of machine learning algorithms.
 
-## Repository Structure  	:bricks:
+## Repository Structure  🗂️
 Notebooks: Contains Jupyter notebooks covering various aspects of feature engineering techniques, including:
 
 - Outliers (Aykiri Degerler)
@@ -17,10 +17,10 @@ Notebooks: Contains Jupyter notebooks covering various aspects of feature engine
 - End-to-end Application (Uctan Uca Uygulama)
 ...and more!
 
-## Resources 	:books:
+## Resources  📚
 Miuul Feature Engineering course notes
 
-## Getting Started  	:checkered_flag:
+## Getting Started  🏁
 To explore the notebooks and resources, simply clone this repository to your local machine:
 
 git clone git@github.com:BioDiverseBits/Feature_Engineering.git
